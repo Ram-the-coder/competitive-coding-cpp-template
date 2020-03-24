@@ -10,7 +10,8 @@ using namespace std;
 int main() {
 	fastio;
 
-	lld t, n;
+	lld t;
+	lld n;
 
 	cin >> t;
 
