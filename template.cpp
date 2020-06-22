@@ -13,7 +13,7 @@ using namespace std;
 template <class T>
 void swap(vector<T> a, lld i, lld j) {
 	T temp = a[i];
-	a[i] = j;
+	a[i] = a[j];
 	a[j] = temp;
 }
 
