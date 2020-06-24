@@ -10,13 +10,6 @@
 #define fastio ios_base::sync_with_stdio(false); cin.tie(NULL)
 using namespace std;
 
-template <class T>
-void swap(vector<T> a, lld i, lld j) {
-	T temp = a[i];
-	a[i] = a[j];
-	a[j] = temp;
-}
-
 int main() {
 	fastio;
 
