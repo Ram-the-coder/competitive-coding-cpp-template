@@ -2,6 +2,13 @@
 #define lld long long
 #define vll vector<lld>
 #define vvll vector<vector<lld>>
+#define vi vector<int>
+#define vvi vector<vector<int>>
+#define pll pair<lld, lld>
+#define pii pair<int, int>
+#define uset unordered_set
+#define umap unordered_map
+#define all(v) v.begin(), v.end()
 #define pb push_back
 #define mp make_pair
 #define ipv(v) for(lld i=0; i<v.size(); ++i) cin >> v[i]
